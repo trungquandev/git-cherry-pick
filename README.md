@@ -1,5 +1,5 @@
-### Git Cherry Pick - Kỹ năng cần thiết của Leader!
-## Một chiếc hướng dẫn về Git Cherry Pick cực kỳ chỉn chu đến từ mình dành tặng các bạn.
+## Git Cherry Pick - Kỹ năng cần thiết của Leader!
+### Một chiếc hướng dẫn về Git Cherry Pick cực kỳ chỉn chu đến từ mình dành tặng các bạn.
 
 - Link hướng dẫn: (coming soon)
 
