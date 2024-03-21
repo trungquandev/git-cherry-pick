@@ -1,3 +1,1 @@
-/**
- * Completed task 17 sub 02
- */
+//Completed code task 17 sub 2

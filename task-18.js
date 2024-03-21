@@ -1,3 +1,1 @@
-/**
- * Completed task 18
- */
+//Completed task 18
