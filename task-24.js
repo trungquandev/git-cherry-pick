@@ -1,3 +1,0 @@
-/**
- * Completed task 24
- */
