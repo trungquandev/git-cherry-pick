@@ -1,3 +1,3 @@
 /**
- * Completed task 17 sub 02
+ * Completed task 17-sub-02
  */
